@@ -19,3 +19,10 @@ python -m streamlit run app.py
 pip install pandas scikit-learn streamlit
 python -m streamlit run app.py
 python -m streamlit run app.py
+
+## 📂 Dataset 
+
+Due to large file size, the dataset is not uploaded on GitHub.
+
+You can download them from kaggle:
+movies_metadata.csv
